@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>音乐遥控器</title>
+    <style>
+        :root {
+            --primary: #2196F3;
+            --success: #4CAF50;
+            --error: #f44336;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            min-height: 100vh;
+        }
+
+        .container {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            max-width: 400px;
+            width: 100%;
+        }
+
+        .controls {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .volume-controls {
+            display: flex;
+            gap: 12px;
+        }
+
+        button {
+            padding: 20px;
+            border: none;
+            border-radius: 10px;
+            background: var(--primary);
+            color: white;
+            font-size: 22px;
+            cursor: pointer;
+            transition: filter 0.2s;
+            touch-action: manipulation;
+        }
+
+        button:active {
+            filter: brightness(0.9);
+        }
+
+        .status {
+            padding: 12px;
+            border-radius: 8px;
+            margin-top: 15px;
+            text-align: center;
+            display: none;
+            color: white;
+        }
+
+        .success { background: var(--success); }
+        .error { background: var(--error); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="controls">
+            <button data-action="prev">⏮</button>
+            <button data-action="play">⏯</button>
+            <button data-action="next">⏭</button>
+        </div>
+        
+        <div class="volume-controls">
+            <button data-action="vol_down" style="flex:1">🔉</button>
+            <button data-action="vol_up" style="flex:1">🔊</button>
+        </div>
+
+        <div id="status" class="status"></div>
+    </div>
+
+    <script>
+        // 配置参数
+        const SERVER_URL = 'http://192.168.1.101:8090/server.php'; // 改为实际IP和端口
+        const STATUS_DURATION = 1500; // 状态提示显示时间
+
+        // 按钮事件绑定
+        document.querySelectorAll('button').forEach(btn => {
+            btn.addEventListener('click', async () => {
+                const action = btn.dataset.action;
+                showStatus('处理中...', 'info');
+                
+                try {
+                    const response = await fetch(`${SERVER_URL}?action=${action}`);
+                    
+                    if (!response.ok) {
+                        throw new Error(`HTTP错误: ${response.status}`);
+                    }
+
+                    const data = await response.json();
+                    showStatus(data.status === 'success' ? '操作成功' : '操作失败', 
+                              data.status);
+                } catch (error) {
+                    showStatus(`错误: ${error.message}`, 'error');
+                    console.error('请求失败:', error);
+                }
+            });
+        });
+
+        // 显示状态提示
+        function showStatus(message, type = 'info') {
+            const statusEl = document.getElementById('status');
+            statusEl.textContent = message;
+            statusEl.className = `status ${type}`;
+            statusEl.style.display = 'block';
+            
+            setTimeout(() => {
+                statusEl.style.display = 'none';
+            }, STATUS_DURATION);
+        }
+
+        // 禁用长按菜单
+        document.addEventListener('contextmenu', e => e.preventDefault());
+    </script>
+</body>
+</html>

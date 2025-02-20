@@ -1,0 +1,390 @@
+[2025-02-20 10:16:31]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:32]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:34]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:34]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:35]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:36]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:36]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:37]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:38]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:38]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:39]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:39]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:40]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:41]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:41]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:16:45]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:30]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:31]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:31]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:32]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:32]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:33]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:33]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:34]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:34]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:35]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:36]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:36]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:37]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:38]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:42]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:43]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:21:44]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:15]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:15]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:16]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:17]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:17]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:18]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:18]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:19]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:20]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:22]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{LEFT}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:23]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{RIGHT}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:26:25]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:05]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:05]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:06]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:06]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:07]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:08]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:09]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:11]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:15]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:15]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:16]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:22]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:22]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F4)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:23]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:23]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^(F6)');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:24]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:29:24]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:30:58]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F4}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:02]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F4}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:03]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F4}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:04]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:04]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:05]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{DOWN}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:06]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:06]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:06]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:07]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:07]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:07]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:08]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:08]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:08]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
+[2025-02-20 10:31:09]
+命令: Add-Type -AssemblyName System.Windows.Forms; [Windows.Forms.SendKeys]::SendWait('^{F6}');
+输出: 
+状态码: 0
+
